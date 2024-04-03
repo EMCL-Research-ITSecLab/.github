@@ -1,4 +1,4 @@
-## Welcome to the IT-Sec Lab of EMCL
+## Welcome to the IT-Sec Lab of the EMCL
 
 <!--
 
